@@ -1,0 +1,16 @@
+{
+    "tweet1": {
+        "data": {
+            "text": "correr gatos mundiales selecciones argentina",
+            "fecha_creacion": "2022-10-31 04:38:56+00:00",
+            "user_name": "quierogomitas"
+        }
+    },
+    "tweet2": {
+        "data": {
+            "text": "porque dej\u00f3 tamales ratas jugaran",
+            "fecha_creacion": "2022-10-31 04:38:53+00:00",
+            "user_name": "luucyl \ud83e\udd87"
+        }
+    }
+}
