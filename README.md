@@ -10,7 +10,7 @@ Para poder correr el código, es necesario instalar los siguientes paquetes [dem
     > pip install tweepy
 
 ## Ejecutar
-Es necesario entrar en el directorio _src_
+Es necesario entrar en el directorio _src_ :
 
     > cd src
     > python main.py
